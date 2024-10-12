@@ -42,6 +42,10 @@ This section includes some of the Microsoft Excel funtions used during the analy
 
 ### Data Visualization
 ---
+![Sales performance dashboard](https://github.com/user-attachments/assets/cb962db2-5de6-40cc-8aac-ca335f1e41fb)
+
+![pivot table](https://github.com/user-attachments/assets/c6d1c36e-35af-4acb-beed-73c4b4490986)
+
 
 
 
