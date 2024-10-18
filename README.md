@@ -85,11 +85,11 @@ Filtered Revenue by Region for The Year 2015:
 
 Insights:
 ---
-1. Overall Observation in Revenue Trends:
+A. Overall Observation in Revenue Trends:
   There seems to be a significant decrease in  total Revenue generation across the regions for both years, suggesting that some of the regions may be facing challenges in sales performance or as a 
-  result of market conditions not being favorable.
+  result of unfavorable market conditions.
   
-2. Rgional Performance:
+B. Rgional Performance:
    - North East: The north earst region seems to be the highest generator of the total revenue for both years. However, in 2015 there seems to be a significant  drop in revenue generation in this 
      same region which may attributted to market conditions such as competition or consumer behavior.
      
@@ -108,20 +108,61 @@ Insights:
    - The bar chart distributions indicates decline in revenue generations across the regions over the years, with the North East being the highest in revenue generation and the North Central being 
      the lowest. This indicates a similarity in the factors affecting the sales performance in all the regions.
 
-3. Implications:
+C. Implications:
    - The decline in revenue generation across the regions indicates a need for tactical reassessments of business procedures. The need to investigate the cause of decline which may be due to changes 
-     such as economic climates, social trends, and consumer behavior.
+     such as economic climates, social trends, and consumer behavior is required
    - There is need to focuse on startegies that will improve sales such as marketing and branding efforts, customer needs and relationship.
   
-4. Conclusion:
-   - The data shows the decline trend in revenue generation across the regions in 2015. This culminate theneed for the company to analyse market and economic conditions and also implement strategies 
-     to boost sales and revenue most especially in the North East and South East regions.
+D. Conclusion:
+   - The data shows the decline trend in revenue generation across the regions in 2015. This culminate the need for the company to analyse market and economic conditions and also implement 
+     strategies to boost sales and revenue most especially in the North East and South East regions.
 
 
 2. Average Revenue By Region
 ---
 Pivot Table
 ---
+![pivot table region by avg Rev](https://github.com/user-attachments/assets/5a7973de-dd91-4e7e-9589-da5a0042ed04)
+
+Filtered Chat for 2014
+---
+![Average Revenue by Region filtered 2014](https://github.com/user-attachments/assets/d5f08081-71a6-45ef-851c-d8a1dddcefba)
+
+Filtered Chat For 2015
+---
+![Average revenue by region 2015](https://github.com/user-attachments/assets/deef6bbf-b8cb-40fc-8153-d45ee634ec3f)
+
+Insights:
+---
+A. Overall Observation in Average Revenue Trend:
+   - The chart shows a significant decline in average revenue generation in the year 2015 across all regions. this may be due to unfavorable pricing issues leading to less quantity of goods sold, 
+     poor customer experience and economic factors.
+     
+B. Regional Performance:
+   - average revenue trend across the regions indicates potential decrease within the years with the North central now being the Highest average revenue generator indicationg that they had the 
+     highest profit per unit of product sold. This is followed by the South South region which is the second highest average revenue generator. The North East(though the higest total revenue 
+     generating region) and South East region  were the lowest average revenue generators with a significant decline across the year 2015, which is disturbing and can be due inability of firms to 
+     lower prices so as to sell more quantities of product, market over saturation and competitors.
+
+C. Implications:
+ - The decline is average revenue generation across the regions indicates a need for strategic analysis of business policies. The need to probe the cause of decline which may be due to 
+   competion in the market, quality of product, market conditions such as economic trends.
+ - The need to focuse on strategies that will improve sales performance is necessary.
+
+ D. Conclusion:
+   Due to the insights from the data, it shhows that there is a need for the company to analyse market conditions and review product quality and pricing in other to generate more sales, 
+   paying specific attention to the North East and South East regions.
+   
+Revenue By Line of Business
+---
+Pivot table
+---
+
+   
+
+
+     
+
 
 
    
