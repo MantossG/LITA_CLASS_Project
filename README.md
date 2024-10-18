@@ -75,6 +75,59 @@ Revenue for Both Years 2014 & 2015
 ---
 ![Revenue by Region](https://github.com/user-attachments/assets/c759ed34-5a73-4daa-9003-c23ab9a4530e)
 
+Filtered Revenue by Region for the Year 2014:
+---
+![filtere revenue by region 2014](https://github.com/user-attachments/assets/4f1c5152-710c-424f-b75c-4a65a3961f74)
+
+Filtered Revenue by Region for The Year 2015:
+---
+![filtered revenue by region 2015](https://github.com/user-attachments/assets/e4e8fc1c-86d4-4afc-b773-4c77190bc3d7)
+
+Insights:
+---
+1. Overall Observation in Revenue Trends:
+  There seems to be a significant decrease in  total Revenue generation across the regions for both years, suggesting that some of the regions may be facing challenges in sales performance or as a 
+  result of market conditions not being favorable.
+  
+2. Rgional Performance:
+   - North East: The north earst region seems to be the highest generator of the total revenue for both years. However, in 2015 there seems to be a significant  drop in revenue generation in this 
+     same region which may attributted to market conditions such as competition or consumer behavior.
+     
+   - South West: this region shows that it is the second highest revenue generator which also shows a decrease in the year 2015.
+     
+   - Soth SOuth: This region is the third highest generator of the total revenue with a significant decline in revenue over the years.
+  
+   - South East: in this region, there is a decrease in revenue generation just as the south south region but however, this region seems not to contribute greatly to the total revenue as this may 
+     due to challenges in sales performance faced by this region.
+     
+   - North West: this region is the second lowest revenue generation region as indicated by the trend, with low revenue for both 2014 and 2015, this may be a potentetial area of concern as this may 
+     be due to reasons such as consumer behavior, market conditons, and competition.
+     
+   - North Central: this is the lowest revenue generating region for both years as this may be attributed to challenges such as enviromentalfactors affecting sales performance.
+  
+   - The bar chart distributions indicates decline in revenue generations across the regions over the years, with the North East being the highest in revenue generation and the North Central being 
+     the lowest. This indicates a similarity in the factors affecting the sales performance in all the regions.
+
+3. Implications:
+   - The decline in revenue generation across the regions indicates a need for tactical reassessments of business procedures. The need to investigate the cause of decline which may be due to changes 
+     such as economic climates, social trends, and consumer behavior.
+   - There is need to focuse on startegies that will improve sales such as marketing and branding efforts, customer needs and relationship.
+  
+4. Conclusion:
+   - The data shows the decline trend in revenue generation across the regions in 2015. This culminate theneed for the company to analyse market and economic conditions and also implement strategies 
+     to boost sales and revenue most especially in the North East and South East regions.
+
+
+2. Average Revenue By Region
+---
+Pivot Table
+---
+
+
+   
+  
+ 
+
 
 
 
