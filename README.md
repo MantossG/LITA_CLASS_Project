@@ -73,6 +73,7 @@ Pivot Table
 
 Revenue for Both Years 2014 & 2015
 ---
+![Revenue by Region](https://github.com/user-attachments/assets/c759ed34-5a73-4daa-9003-c23ab9a4530e)
 
 
 
