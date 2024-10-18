@@ -69,6 +69,12 @@ Average Revenue = Total Revenue/Unit Sold
 ---
 Pivot Table
 
+![pivot tabe region by Rev](https://github.com/user-attachments/assets/e357dcfa-9def-4cb9-9148-3bc6799f39b1)
+
+Revenue for Both Years 2014 & 2015
+---
+
+
 
 
 
