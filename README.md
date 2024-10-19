@@ -65,7 +65,7 @@ Average Revenue = Total Revenue/Unit Sold
 
 ### Data Ananlysis, Visualization, and Insights
 ---
-1. Revenue by Region
+### 1. Revenue by Region
 ---
 Pivot Table
 
@@ -118,7 +118,7 @@ D. Conclusion:
      strategies to boost sales and revenue most especially in the North East and South East regions.
 
 
-2. Average Revenue By Region
+### 2. Average Revenue By Region
 ---
 Pivot Table
 ---
@@ -135,7 +135,7 @@ Filtered Chat For 2015
 Insights:
 ---
 A. Overall Observation in Average Revenue Trend:
-   - The chart shows a significant decline in average revenue generation in the year 2015 across all regions. this may be due to unfavorable pricing issues leading to less quantity of goods sold, 
+   - The chart shows a significant decline in average revenue generation in the year 2015 across all regions. This may be due to unfavorable pricing issues leading to less quantity of goods sold, 
      poor customer experience and economic factors.
      
 B. Regional Performance:
@@ -157,6 +157,44 @@ Revenue By Line of Business
 ---
 Pivot table
 ---
+![pivot table line of business](https://github.com/user-attachments/assets/41d47d51-e682-4597-9aca-91d3cd6328c5)
+
+Revenue by Line of Business(unfiltered)
+---
+![Revenue by unit sold](https://github.com/user-attachments/assets/04526a6f-55a0-4c2d-81a7-c1fd2793f910)
+
+Filtered Chat for 2014
+---
+![revenue by line of businee 2014](https://github.com/user-attachments/assets/04a13732-c883-4604-9817-a997a49c5024)
+
+Filtered Chat for 2015
+---
+![revenue by line of businee 2015](https://github.com/user-attachments/assets/b2f8e3be-9619-4c38-b366-b1e0e8aa0263)
+
+Insights
+---
+A. Overall Observation:
+- The highest generator of revenue by the various line of business is the service plan with a wide margin then followed by the parts, copier sale, and printer sale in a significantly decreasing 
+  manner. This may be due to consumer behavior, market conditions, competition and customer base.
+- There seems to be significant drop in revenue generation by all the line of businesses in 2015 which is disturbing as these line of businesses performed well in the previous year(2014). This 
+  suggest potential challenges in sales performace, market conditions, product quality or  marketing strategy.
+
+B. Implications:
+- The decline in the revenue generating ability of the line of businesses indicates a  need for strategic reassessment. The company may need to look into the causes of this decline as suggested 
+  earlier.
+- Focused  markerting and branding efforts, customer relationship, and product quality may be necessary to revitalize sales in all the line of businesses especially the service plan. this also 
+  applies to the copier and printer sale so as to avoid them being a discontinued line.
+
+C. Conclusion
+- The revenue data from 2014 and 2015 indicates a disturbing trend of declining revenue generating performance by the various line of business. This highlight the need for the company to analyze 
+  market conditions and implement strategies to improve  sales performance of these products paying keen attention to the service plan line of business.
+
+### 4. Region By Unit Sold
+---
+Pivot Table
+---
+
+
 
    
 
