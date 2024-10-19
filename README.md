@@ -85,18 +85,18 @@ Filtered Revenue by Region for The Year 2015:
 Insights:
 ---
 A. *Overall Observation in Revenue Trends:*
-  - There seems to be a significant decrease in  total Revenue generation across the regions for both years, suggesting that some of the regions may be facing some challenges in sales performance or 
+  - The data shows a significant decrease in total Revenue generation across the regions for both years, suggesting that some of the regions may be facing some challenges in sales performance or 
     as a result of unfavorable market conditions.
   
-B. *Rgional Performance:*
-   - North East: The North East region seems to be the highest generator of the total revenue for both years. However, in 2015 there seems to be a significant  drop in revenue generation in this 
+B. *Regional Performance:*
+   - North East: The North East region has the highest generator of the total revenue for both years. However, in 2015 there is a significant  drop in revenue generation in this 
      same region which may attributted to market conditions such as competition or consumer behavior.
      
    - South West: this region shows that it is the second highest revenue generator which also shows a decrease in the year 2015.
      
    - Soth SOuth: This region is the third highest generator of the total revenue with a significant decline in revenue over the years.
   
-   - South East: in this region, there is a decrease in revenue generation just as the South South region but however, this region seems not to contribute greatly to the total revenue as this may be 
+   - South East: in this region, there is a decrease in revenue generation just as the South South region but however, this region does not to contribute greatly to the total revenue as this may be 
      due to challenges in sales performance faced by this region.
      
    - North West: this region is the second lowest revenue generation region as indicated by the trend line, with low revenue for both 2014 and 2015, this may be a potentetial area of concern as this 
@@ -113,7 +113,7 @@ C. *Implications:*
    - There is need to focuse on startegies that will improve sales such as marketing and branding efforts, customer needs and relationship.
   
 D. *Conclusion:*
-   - The data shows the decline trend in revenue generation across the regions in 2015. This culminate the need for the company to analyse market and economic conditions and also implement 
+   - The data shows the declining trend in revenue generation across the regions in 2015. This culminate the need for the company to analyse market and economic conditions and also implement 
      strategies to boost sales and revenue most especially in the North East and South East regions.
 
 
@@ -149,10 +149,10 @@ C. *Implications:*
  - The need to focuse on strategies that will improve sales performance is necessary.
 
  D. *Conclusion:*
-   Due to the insights from the data, it shhows that there is a need for the company to analyse market conditions and review product quality and pricing in other to generate more sales, 
+   Due to the insights from the data, it shows that there is a need for the company to analyse market conditions and review product quality and pricing in other to generate more sales, 
    paying specific attention to the North East and South East regions.
    
-Revenue By Line of Business
+### 3.Revenue By Line of Business
 ---
 Pivot table
 ---
@@ -175,7 +175,7 @@ Insights
 A. *Overall Observation:*
 - The highest generator of revenue by the various line of business is the service plan with a wide margin then followed by the parts, copier sale, and printer sale in a significantly decreasing 
   manner. This may be due to consumer behavior, market conditions, competition and customer base.
-- There seems to be significant drop in revenue generation by all the line of businesses in 2015 which is disturbing as these line of businesses performed well in the previous year(2014). This 
+- There ia a significant drop in revenue generation by all the line of businesses in 2015 which is disturbing as these line of businesses performed well in the previous year(2014). This 
   suggest potential challenges in sales performace, market conditions, product quality or  marketing strategy.
 
 B. *Implications:*
@@ -185,7 +185,7 @@ B. *Implications:*
   applies to the copier and printer sale so as to avoid them being a discontinued line.
 
 C. *Conclusion*
-- The revenue data from 2014 and 2015 indicates a disturbing trend of declining revenue generating performance by the various line of business. This highlight the need for the company to analyze 
+- The revenue data from 2014 and 2015 indicated a disturbing trend of declining revenue generating performance by the various line of business. This highlight the need for the company to analyze 
   market conditions and implement strategies to improve  sales performance of these products paying keen attention to the service plan line of business.
 
 ### 4. Region By Unit Sold
@@ -205,7 +205,7 @@ Filtered Chart for the year 2015
 Insights
 ---
 A. *Overall Observation:*
-- There seem to be a sinificant decrease in sum of unit sold across most region from 2014 to 2015. This can be due to potential challenges in sale performance or market conditions faced by those 
+- There is a sinificant decrease in sum of unit sold across most region from 2014 to 2015. This can be due to potential challenges in sale performance or market conditions faced by those 
   regions.
 
 B. *Regional Performance:*
@@ -222,7 +222,7 @@ C. *Implications:*
   maximization of profit.
 
 D. *Conclusion:*
-- The data shows that there is a decline in the sum of unit sold across each region in 2015. This highlight the need for the company to market conditions and implement strategies to improve sale 
+- The data showed that there is a decline in the sum of unit sold across each region in 2015. This highlight the need for the company to market conditions and implement strategies to improve sale 
   performance and regian profit. Addressing  the challenges in sale performance across regions with high performance is necessary.
 
 
